@@ -1,0 +1,1 @@
+# gold_bar_scale_problem
